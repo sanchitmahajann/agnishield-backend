@@ -1,5 +1,3 @@
-### **README for Phishing Detection Project**
-
 ---
 
 # 🛡️ AGNISHIELD Backend
