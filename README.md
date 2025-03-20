@@ -167,6 +167,6 @@ Classifies a given URL as "safe" or "phishing."
 
 ## 👥 Authors
 
-This project was developed by [Sanchit Mahajan](https://github.com/sanchitmahajann). Contributions are welcome!
+This project was developed by [Sanchit Mahajan](https://github.com/sanchitmahajann), [Magi Sharma](https://github.com/magi8101) and [Jeswin Sunsi](https://github.com/jeswinsunsi). Contributions are welcome!
 
 ---
