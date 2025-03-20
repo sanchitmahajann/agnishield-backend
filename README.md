@@ -167,6 +167,29 @@ Classifies a given URL as "safe" or "phishing."
 
 ## 👥 Authors
 
-This project was developed by [Sanchit Mahajan](https://github.com/sanchitmahajann), [Magi Sharma](https://github.com/magi8101) and [Jeswin Sunsi](https://github.com/jeswinsunsi). Contributions are welcome!
+This project was developed by <p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://avatars.githubusercontent.com/jeswinsunsi" width="120" height="120"><br>
+        <b>Jeswin Sunsi</b><br>
+        <a href="https://github.com/jeswinsunsi">@jeswinsunsi</a><br>
+        <i>The Code Alchemist 🧙‍♂️✨</i>
+      </td>
+      <td align="center">
+        <img src="https://avatars.githubusercontent.com/sanchitmahajann" width="120" height="120"><br>
+        <b>Sanchit Mahajan</b><br>
+        <a href="https://github.com/sanchitmahajann">@sanchitmahajann</a><br>
+        <i>The Mastermind Strategist 🎯📋</i>
+      </td>
+      <td align="center">
+        <img src="https://avatars.githubusercontent.com/magi8101" width="120" height="120"><br>
+        <b>Magi8101</b><br>
+        <a href="https://github.com/magi8101">@magi8101</a><br>
+        <i>The Code Magician 🎩🔥</i>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
