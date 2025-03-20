@@ -1,0 +1,46 @@
+# Bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and temporary files
+*.log
+*.pot
+
+# Unit test coverage reports
+.coverage
+.coverage.*
+.pytest_cache/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+.eggs/
+
+# IDE settings (optional)
+.vscode/
+.idea/
+
+# Ignore sensitive environment files (optional)
+.env
+
+# Ignore wheels and installer logs
+*.whl
+pip-log.txt
+
+# Ignore mkdocs documentation builds
+/site
+
+# Ignore mypy cache
+.mypy_cache/
