@@ -170,19 +170,3 @@ Classifies a given URL as "safe" or "phishing."
 This project was developed by [Sanchit Mahajan](https://github.com/sanchitmahajann). Contributions are welcome!
 
 ---
-
-Let me know if you need further modifications!
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/56665263/01bc094a-a022-402c-ab2f-b0e12e4db2d6/Phishing-Detection.ipynb
-[2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/56665263/30550fca-31a1-4ee7-a9f5-6aee23c735fc/main.py
-[3] https://www.irjet.net/archives/V11/i11/IRJET-V11I1179.pdf
-[4] https://github.com/asrith-reddy/Phishing-detector
-[5] https://github.com/Saadnadeem07/Phishing-Email-Detection-System
-[6] https://github.com/shreyagopal/Phishing-Website-Detection-by-Machine-Learning-Techniques
-[7] https://github.com/itxtalal/phishdetector-fyp
-[8] https://github.com/gangeshbaskerr/Phishing-Website-Detection
-[9] https://github.com/deepeshdm/Phishing-Attack-Domain-Detection
-[10] https://github.com/goodycy3/Detection-of-Phishing-Website-Using-Machine-Learning
-
----
