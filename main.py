@@ -30,7 +30,7 @@ class URLRequest(BaseModel):
     url: str
 
 # Whitelisted safe domains
-SAFE_DOMAINS = ['netlify.app', 'github.com', 'google.com', 'example.com']
+SAFE_DOMAINS = ['netlify.app', 'github.com', 'google.com', 'example.com', 'youtube.com', 'bing.com', 'duckduckgo.com']
 
 # Feature extraction logic (replicated from Jupyter Notebook)
 def extract_features(url: str):
